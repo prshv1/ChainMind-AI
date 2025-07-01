@@ -25,7 +25,7 @@ This project is currently **under active development**. We welcome feedback, sug
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/personal-agentic-ai.git
+git clone https://github.com/prshv1/ChainMind-AI
 cd personal-agentic-ai
 ```
 

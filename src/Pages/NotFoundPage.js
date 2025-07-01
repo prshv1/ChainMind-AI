@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SessionList from './Components/SessionList';
 import HomePage from './Pages/HomePage';
-import SessionPage from './Pages/SessionPage';
+import SessionPage from './Pages/SessionPage'; 
 import NotFoundPage from './Pages/NotFoundPage';
 import './Styles/main.css';
 
